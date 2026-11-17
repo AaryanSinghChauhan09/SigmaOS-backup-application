@@ -3,7 +3,7 @@ name = "SigmaOS-backup-application"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "backup-application component"
+description = "Backup Application"
 upstream = []
 
 [contract]
